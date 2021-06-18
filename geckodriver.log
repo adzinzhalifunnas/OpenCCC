@@ -1,10 +1,1 @@
-1623921671508	geckodriver	INFO	Listening on 127.0.0.1:59380
-1623921674567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adzin\\AppData\\Local\\Temp\\rust_mozprofileKtxN6b"
-1623921676258	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adzin\\AppData\\Local\\Temp\\rust_mozprofileKtxN6b\\search.json.mozlz4", (void 0)))
-1623921684359	Marionette	INFO	Listening on port 59392
-1623921684760	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=419451150, line 1: unreachable code after return statement
-JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=419451150, line 1: unreachable code after return statement
-JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=419451150 line 1 > eval, line 1: unreachable code after return statement
-JavaScript error: https://www.openccc.net/uPortal/media/skins/common/javascript/uportal/up-ga.js, line 1: TypeError: up.analytics is undefined
+
